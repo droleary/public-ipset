@@ -129,3 +129,4 @@ CY
 FI
 RO
 AS
+SK
