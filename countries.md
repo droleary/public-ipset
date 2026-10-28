@@ -12,6 +12,7 @@
 	BA	BIH	070	Bosnia and Herzegovina
 	BB	BRB	052	Barbados
 	BD	BGD	050	Bangladesh
+	BE	BEL	056	Belgium
 	BF	BFA	854	Burkina Faso
 	BG	BGR	100	Bulgaria
 	BH	BHR	048	Bahrain
@@ -23,6 +24,7 @@
 	BZ	BLZ	084	Belize
 	CA	CAN	124	Canada
 	CG	COG	178	Congo
+	CH	CHE	756	Switzerland
 	CI	CIV	384	Côte d'Ivoire
 	CL	CHL	152	Chile
 	CM	CMR	120	Cameroon
@@ -35,6 +37,7 @@
 	DO	DOM	214	Dominican Republic
 	DZ	DZA	012	Algeria
 	EC	ECU	218	Ecuador
+	EE	EST	233	Estonia
 	EG	EGY	818	Egypt
 	ES	ESP	724	Spain
 	FI	FIN	246	Finland
@@ -48,7 +51,10 @@
 	GY	GUY	328	Guyana
 	HK	HKG	344	Hong Kong
 	HN	HND	340	Honduras
+	HT	HTI	332	Haiti
+	HU	HUN	348	Hungary
 	ID	IDN	360	Indonesia
+	IE	IRL	372	Ireland
 	IL	ISR	376	Israel
 	IN	IND	356	India
 	IQ	IRQ	368	Iraq
@@ -68,6 +74,7 @@
 	LI	LIE	438	Liechtenstein
 	LK	LKA	144	Sri Lanka
 	LT	LTU	440	Lithuania
+	LV	LVA	428	Latvia
 	LY	LBY	434	Libya
 	MA	MAR	504	Morocco
 	MD	MDA	498	Moldova, Republic of
@@ -76,6 +83,7 @@
 	MM	MMR	104	Myanmar
 	MN	MNG	496	Mongolia
 	MO	MAC	446	Macao
+	MT	MLT	470	Malta
 	MU	MUS	480	Mauritius
 	MV	MDV	462	Maldives
 	MW	MWI	454	Malawi
@@ -107,7 +115,9 @@
 	SA	SAU	682	Saudi Arabia
 	SC	SYC	690	Seychelles
 	SD	SDN	729	Sudan
+	SE	SWE	752	Sweden
 	SG	SGP	702	Singapore
+	SI	SVN	705	Slovenia
 	SK	SVK	703	Slovakia
 	SL	SLE	694	Sierra Leone
 	SN	SEN	686	Senegal
