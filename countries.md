@@ -17,6 +17,7 @@
 	BG	BGR	100	Bulgaria
 	BH	BHR	048	Bahrain
 	BO	BOL	068	Bolivia, Plurinational State of
+	BQ	BES	535	Bonaire, Sint Eustatius and Saba
 	BR	BRA	076	Brazil
 	BT	BTN	064	Bhutan
 	BW	BWA	072	Botswana
@@ -31,9 +32,11 @@
 	CN	CHN	156	China
 	CO	COL	170	Colombia
 	CR	CRI	188	Costa Rica
+	CW	CUW	531	Curaçao
 	CY	CYP	196	Cyprus
 	CZ	CZE	203	Czechia
 	DE	DEU	276	Germany
+	DK	DNK	208	Denmark
 	DO	DOM	214	Dominican Republic
 	DZ	DZA	012	Algeria
 	EC	ECU	218	Ecuador
@@ -47,6 +50,7 @@
 	GE	GEO	268	Georgia
 	GH	GHA	288	Ghana
 	GP	GLP	312	Guadeloupe
+	GQ	GNQ	226	Equatorial Guinea
 	GT	GTM	320	Guatemala
 	GY	GUY	328	Guyana
 	HK	HKG	344	Hong Kong
@@ -59,6 +63,7 @@
 	IN	IND	356	India
 	IQ	IRQ	368	Iraq
 	IR	IRN	364	Iran, Islamic Republic of
+	IS	ISL	352	Iceland
 	IT	ITA	380	Italy
 	JM	JAM	388	Jamaica
 	JO	JOR	400	Jordan
@@ -108,6 +113,7 @@
 	PT	PRT	620	Portugal
 	PY	PRY	600	Paraguay
 	QA	QAT	634	Qatar
+	RE	REU	638	Réunion
 	RO	ROU	642	Romania
 	RS	SRB	688	Serbia
 	RU	RUS	643	Russian Federation
@@ -135,6 +141,7 @@
 	TZ	TZA	834	Tanzania, United Republic of
 	UA	UKR	804	Ukraine
 	UG	UGA	800	Uganda
+	UY	URY	858	Uruguay
 	UZ	UZB	860	Uzbekistan
 	VE	VEN	862	Venezuela, Bolivarian Republic of
 	VG	VGB	092	Virgin Islands, British
