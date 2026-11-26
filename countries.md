@@ -51,6 +51,7 @@
 	GH	GHA	288	Ghana
 	GP	GLP	312	Guadeloupe
 	GQ	GNQ	226	Equatorial Guinea
+	GR	GRC	300	Greece
 	GT	GTM	320	Guatemala
 	GY	GUY	328	Guyana
 	HK	HKG	344	Hong Kong
@@ -79,6 +80,7 @@
 	LI	LIE	438	Liechtenstein
 	LK	LKA	144	Sri Lanka
 	LT	LTU	440	Lithuania
+	LU	LUX	442	Luxembourg
 	LV	LVA	428	Latvia
 	LY	LBY	434	Libya
 	MA	MAR	504	Morocco
